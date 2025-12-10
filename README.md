@@ -1,9 +1,33 @@
 <div align="center">
-  <h2>Olá, eu sou o Augusto! 👋</h2>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AugustoBritoLopes&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <h1>Hello There 👋, I'm Augusto Lopes</h1>
+  <h3>Studying Computer Science at UFCG (Federal University of Campina Grande)</h3>
 
-  <br/><br/>
+  <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoBritoLopes&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  <h2>🌱 I'm currently learning / using</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure" />
+  </p>
+
+  <br/>
+
+  <h2>🚀 Some Tools and Technologies that I use</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  </p>
+
 </div>
