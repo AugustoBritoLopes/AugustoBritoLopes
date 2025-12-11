@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hello There 👋, I'm Augusto Lopes</h1>
-  <h3>Studying Computer Science at UFCG (Federal University of Campina Grande)</h3>
+  <h1>Olá 👋, eu sou Augusto Lopes</h1>
+  <h3>Estudante de Ciência da Computação UFCG (Universidade Federal de Campina Grande)</h3>
 
   <br/>
 
