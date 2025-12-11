@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h2>🌱 I'm currently learning / using</h2>
+  <h2>🌱 O que estou aprendendo atualmente</h2>
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     &nbsp;
@@ -19,7 +19,7 @@
 
   <br/>
 
-  <h2>🚀 Some Tools and Technologies that I use</h2>
+  <h2>🚀 Ferramentas e tecnologias que utilizo</h2>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     &nbsp;
